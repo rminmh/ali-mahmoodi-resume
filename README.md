@@ -29,7 +29,8 @@ These links show products I have worked on. The source code for company-owned pr
 
 ## Resume
 
-- [View the English resume](./Ali-Mahmoodi-Resume-en.md)
+- [View the English resume (Markdown)](./Ali-Mahmoodi-Resume-en.md)
+- [Download the English resume (PDF)](./Ali-Mahmoodi-Resume-en.pdf)
 
 ## Connect
 
